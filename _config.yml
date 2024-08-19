@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ZerinNichols.com # the main title
+title: Zerin Nichols # the main title
 
-tagline: NEW AND IMPROVED # it will display as the sub-title
+tagline: NEW AND IMPROVED 24-25 WEBSITE # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Zerins epic website
@@ -37,6 +37,7 @@ social:
   email: deneb1001@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - mailto:deneb1001@gmail.com
     - https://twitter.com/ZerinNichols # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
