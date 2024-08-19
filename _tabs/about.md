@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Welcome to Zerin's New and improved website!!! I finally managed to regain posession of zerinnichols.com, which means zerinwalter.com will be coming down soon. Be sure to head to archive.org and save it!!!
