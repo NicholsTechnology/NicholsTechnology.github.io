@@ -1,0 +1,16 @@
+---
+title: Welcome!
+date: 2024-08-19
+categories: [Website]
+toc: false
+comments: false
+---
+<h2>Welcome to Zerin's New Website!!</h2>
+
+# News
+Recently I had the oppurtunity to regain my old domain, zerinnichols.com. I had it previousley, and it taught me many things about web development. Eventually it expired and I had to wait for a spot to open, so I had
+zerinwalter.com up until now. zerinwalter.com will expire soon, so go save it on archive.org while you can!! Another new thing you might have noticed is that I am now using the Chirpy Jekyll theme. This is a much more formal
+alternative to a simple static website, which is all I will be needing. 
+
+# Current Whereabouts
+You can find me at the good ol alternative learning center, church, or playing bass guitar in random places. Email: deneb1001@gmail.com
