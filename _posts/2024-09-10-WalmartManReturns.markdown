@@ -3,7 +3,7 @@ title: Walmart Man Returns
 date: 2024-09-10
 categories: [Life]
 toc: false
-comments: true
+comments: false
 ---
 <h2>New-Old Job</h2>
 
